@@ -4,7 +4,7 @@ address:
   http: http://mirror.aomyim.com/almalinux/
   https: https://mirror.aomyim.com/almalinux/
 update_frequency: 3h
-sponsor: Aomyim.Com
+sponsor: AomYim.Com
 sponsor_url: https://www.aomyim.com
 email: admin@aomyim.com
 ...
