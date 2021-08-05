@@ -1,11 +1,11 @@
 ---
-name: repo.almalinux.org
+name: mirror.aomyim.com
 address:
-  http: http://repo.almalinux.org/almalinux/
-  https: https://repo.almalinux.org/almalinux/
+  http: http://mirror.aomyim.com/almalinux/
+  https: https://mirror.aomyim.com/almalinux/
   rsync: rsync://rsync.repo.almalinux.org/almalinux
-update_frequency: 1h
-sponsor: AlmaLinux OS Foundation
-sponsor_url: https://www.almalinux.org
-email: hello@almalinux.org
+update_frequency: 3h
+sponsor: Aomyim.Com
+sponsor_url: https://www.aomyim.com
+email: admin@aomyim.com
 ...
