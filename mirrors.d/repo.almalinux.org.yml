@@ -3,7 +3,6 @@ name: mirror.aomyim.com
 address:
   http: http://mirror.aomyim.com/almalinux/
   https: https://mirror.aomyim.com/almalinux/
-  rsync: rsync://rsync.repo.almalinux.org/almalinux
 update_frequency: 3h
 sponsor: Aomyim.Com
 sponsor_url: https://www.aomyim.com
